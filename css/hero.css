@@ -1,0 +1,16 @@
+#hero{
+    background-color: #2E2F42;
+    color: #fff;
+}
+.hero{
+    text-align: center;
+    font-size: 50px;
+}
+button{
+    background-color: #4D5AE5;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 700;
+}

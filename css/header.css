@@ -1,0 +1,20 @@
+.title{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: #4D5AE5;
+}
+#span{
+    color: #2E2F42;
+}
+.list{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #2E2F42;
+}
+.header{
+    font-weight: 700;
+}
