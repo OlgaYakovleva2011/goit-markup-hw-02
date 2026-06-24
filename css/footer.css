@@ -1,7 +1,14 @@
-#footer{
+.footer{
     background-color: #2E2F42;
-    color: #fff;
+    color: #F4F4FD;
 }
-#span2{
-    color: #fff;
+.span2{
+    color: #F4F4FD;
+    font-size: 18px;
+    line-height: 1.333;
+    letter-spacing: 0.02em;
+}
+.p{
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }

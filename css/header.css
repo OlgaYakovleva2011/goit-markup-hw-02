@@ -4,17 +4,33 @@
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     color: #4D5AE5;
+    font-size: 18px;
+    line-height: 1.333;
+    letter-spacing: 0.03em;
 }
-#span{
+span{
     color: #2E2F42;
 }
-.list{
+ul{
     list-style: none;
 }
 a{
     text-decoration: none;
     color: #2E2F42;
+    letter-spacing: 0.02em;
+}
+a:hover{
+    color:#404bbf;
+}
+a:focus{
+    color:#404bbf;
 }
 .header{
-    font-weight: 700;
+    font-weight: 500;
+}
+address{
+    font-style: normal;
+}
+.contact{
+    color:#434455;
 }

@@ -1,9 +1,20 @@
-#team{
+.team{
     background-color: #F4F4FD;
 }
 .team-member-name{
     text-align: center;
-}
-.team{
     background-color: #fff;
+    font-size: 18px;
+    line-height: 1.333;
+    letter-spacing: 0.02em;
+    font-weight: 500;
+    color: #2e2f42;
+}
+.list{
+    list-style: none;
+}
+p{
+    color: #2e2f42;
+    letter-spacing: 0.02em;
+    line-height: 1.333;
 }
